@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 17:32:12 2019
-
-@author: giles
-"""
 
 '''
 Question 1
