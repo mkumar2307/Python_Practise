@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 24 10:19:52 2019
-
-@author: giles
-"""
 
 # File handling in Python
 # Python can open, close, read to and write to files
