@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 09:35:23 2019
-
-@author: giles
-"""
 
 #Everything in python is an object!
 
