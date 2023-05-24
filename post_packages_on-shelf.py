@@ -25,6 +25,8 @@ def solution(clients):
         max_packages_on_shelf = max(max_packages_on_shelf, len(packages_on_shelf))
 
     return max_packages_on_shelf
+
+#Example test cases
 clients = [3, 2, 4, 5, 1]
 print(solution(clients))
 
